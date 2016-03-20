@@ -2,6 +2,9 @@
   "index": {
     "title": "Index page title"
   },
+  "test": {
+    "title": "Test page title"
+  },
   "404": {
     "title": "Page Not Found"
   }
